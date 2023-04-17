@@ -1,0 +1,7 @@
+I'm thrilled to share my latest Power BI dashboard project with you all, which is focused on breaking down the results of our recent data professional survey. With this dashboard, we can easily track and analyze key insights from the survey, such as the count of survey takers, the average age of survey takers, and the average salary by job title.
+
+But that's just the beginning. This dashboard also allows us to dive deeper into some of the most important and interesting findings from the survey. We can track how happy data professionals are with their salaries and work-life balance, and we can even see which programming languages they favor the most.
+
+In addition, the dashboard also includes information about the difficulty of breaking into the data field. This is a particularly important issue for many of us in the industry, and having this information at our fingertips will help us better understand the challenges faced by those trying to enter the field.
+
+Overall, the Data Professional Survey Breakdown dashboard is an incredibly powerful tool for anyone in the data industry. With its user-friendly interface and customizable features, we can quickly and easily access the insights we need to make informed decisions about our careers and our businesses. I'm excited to see how we can use this dashboard to drive our success in the data field, and I can't wait to hear your thoughts and feedback on it.
